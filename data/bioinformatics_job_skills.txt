@@ -1,0 +1,20 @@
+Syntekabio USA Inc,python,c,c++
+Novo Nordisk,R,bash
+Octant Bio,Python,R,*nix environments
+Pfizer,R,python,perl,SQL,Galaxy,Bioconductor,Ingenuity Pathways,SciPy
+Yale New Haven Health System,Python,R
+Moderna,Python,R
+Coriell Institute for Medical Research,Python,R
+Personalis,Python,R,Mutect,Varscan2,BWA,GATK,SAMTools,Cosmic,TCGA,Git,SGE
+Joule,Python,Java,Perl,BWA,Novoalign,tophat,star,bowtie,bedtools,GATK,IGV,Samtools
+Harnham,Python,R,TCGA,GDC
+Novo Nordisk,python,R
+Abbott Laboratories,Bash,SQL,AWS,R,Python
+Dovel Technologies,Python,Perl,R,MySQL,Postgres
+Mount Sinai,Python,R,Bowtie2,Cellranger,Samtools,UCSC genome browser,HTML
+Gilead Sciences,R,Bioconductor,Python
+Complete Genomics,Python,C++
+Exact Sciences Corporation,Python,R
+NGM Biopharmaceuticals,R,Python,MySQL
+Spark Therapeutics,Python,R,SPARQL,SQL,WDL,CWL,Cromwell,Docker,BWA,Samtools,BLAST,GATK,scikit-learn,TensorFlow,Keras,Git
+Singular Genomics,Python,R,Pandas,Seaborn,dplyr,ggplot,NextFlow,Snakemake,WDL,Cromwell,Docker,AWS,Git,Lambda,Batch,Spot,RDS,IAM,EFS,EC2,EBS,CloudFormation,R Shiny,MySQL

@@ -1,0 +1,20 @@
+Miles,Python,pandas,scipy,statsmodels,scikit-learn,Tableau,Databox,SQL,Redshift,Spark
+SMU DataArts,SQL,AWS,Python,R,SAS,Linux,UNIX
+DataEdge,Python,Java,R,Scala,scikit-learn,TensorFlow,NumPy,pandas,jupyter,SQL,Linux,Hadoop,Hive,Spark,Cassandra,AWS,Azure,GCP
+Data Revolution,R,Python,Torch,PyTorch,TensorFlow,Scikit-learn,JIRA
+TrueSkilla,Tableau,SQL,Python,R
+Bravens Inc,Python,R,SQL
+The Fountain Group,python,R,SQL
+Project Canary,Python,C#,Matlab
+iQuasar LLC,SQL,Python,R,AWS,NiFi,Git,Kafka
+Endgame,Python,pandas,numpy,SQL
+Blue Icy Water,R,SQL,R Shiny,python,Tableau,Hadoop,Spark
+United Business Solutions Inc,SQL,Python
+FocusKPI Inc,SQL,Python,R,Tableau
+Fyllo,Python,SQL,Databricks,AWS
+Gauntlet,Python,Numpy,Scipy,Pandas,Spark,Flink,TensorFlow,Solidity
+Macys,Microsoft Office,Excel,Powerpoint,SQL,Python
+HealthCare.com,Scala,Spark,Hadoop,Hive,HDFS,Cassandra,ElasticSearch,Python,R,pandas,numpy,scipy,Scikit-learn,seaborn,plotly,SageMaker,TensorFlow,Matlab
+Vertisystem,Java,Springboot,Python,Angular,AWS,Snowflake,RDS,Airflow,SageMaker
+Baanyan Software Services,Java,SQL,C++,HTML,Tableau,Python
+KRK Resources Inc,TensorFlow,Keras,pyTorch,scikit-learn,Spark,Python,Scala,AWS,CircleCI,Jenkins,Pulumi,Terraform,CloudFormation
